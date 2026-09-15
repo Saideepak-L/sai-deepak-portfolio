@@ -1,4 +1,4 @@
-# Sai Deepak — Web Design Portfolio
+# Sai Deepak Lingam - Web Design Portfolio
 
 Standalone static portfolio for website-design outreach. The Social Office appears only as one clearly labelled self-initiated project.
 
@@ -14,4 +14,4 @@ Standalone static portfolio for website-design outreach. The Social Office appea
 - `projects/project.js` - safe demo-form behaviour; no information is sent or stored
 - `assets/` - project screenshots, concept photography, and the local Manrope font
 
-The homepage leads with Smash Guys and includes The Social Office, Prospecting Desk, and Investment Cockpit with explicit project-type labels. The separate concept pages remain available for future use but are not presented as client engagements. Replace the temporary display name and contact email only after the owner confirms the public identity.
+The homepage leads with Smash Guys and includes The Social Office, Prospecting Desk, and Investment Cockpit with explicit project-type labels. The separate concept pages remain available for future use but are not presented as client engagements. The public identity is confirmed as Sai Deepak Lingam with the contact address `saideepak219@gmail.com`.
